@@ -292,25 +292,104 @@ It is not an article, a substitute for licensed standards, an engineering calcul
 - **Incorporation:** For `plafond.id`, use this record in `PLF-05` (Acoustic performance). Let those local topic decisions determine which parts of the record enter each outline; cite the original sources, retain jurisdiction/product/system limits, and resolve the mapped evidence gates before definitive numeric or compliance claims.
 - **Limits/recheck:** If proof is absent, keep the article neutral and preserve the evidence gap.
 
+### KR-25 — A ceiling is a coordinated building assembly, not a visible board
+
+- **Sources:** [PP 16/2021 building implementation](https://peraturan.bpk.go.id/Details/161846/pp-no-16), [ISO 16813:2024 indoor-environment design](https://www.iso.org/standard/83780.html).
+- **Grade:** A/B — current Indonesian building regulation plus official international design-process standard; local rules and complete project criteria govern.
+- **Purpose:** Ground ceiling terminology, requirements, system selection, environment, services, access, performance, operation, and lifecycle.
+- **Summary:** Building and indoor-environment requirements are coordinated across architecture, structure, fire, services, acoustics, visual comfort, air quality, energy, access, and operation; the ceiling is one assembly within that system.
+- **Grounded facts:** A board/tile/panel name, thickness, appearance, or supplier category does not define the grid/furring/hangers/perimeter, plenum, supports, interfaces, exposure, installation, or completed-room performance.
+- **Incorporation:** Use in PLF-01–PLF-03, PLF-06–PLF-08, PLF-11–PLF-12.
+- **Limits/recheck:** Verify use/occupancy, existing/new condition, local requirements, complete assembly and interfaces, product/system evidence, responsible designers, installation, and acceptance.
+
+### KR-26 — Ceiling support evidence must follow the complete load path
+
+- **Sources:** [BSN SNI 1727:2020 status record](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [PP 16/2021 building implementation](https://peraturan.bpk.go.id/Details/161846/pp-no-16).
+- **Grade:** A — official Indonesian sources; the full current standards, project inputs, and competent design are required.
+- **Purpose:** Ground boards/panels, grids/furring, hangers, perimeter, anchors, imposed service/access loads, movement, corrosion, seismic/wind where applicable, and supporting construction.
+- **Summary:** The configured ceiling and everything supported by or passing through it create actions and interfaces that must reach verified building structure through compatible components and connections.
+- **Grounded facts:** One component capacity, anchor label, standard spacing, installer habit, or product weight does not prove the assembled load path, substrate, movement, accidental/service loads, seismic restraint, or exterior wind behavior.
+- **Incorporation:** Use in PLF-02–PLF-04, PLF-07–PLF-10, PLF-12.
+- **Limits/recheck:** No spacing, anchor, wire, channel, load, seismic, wind, support, or fixing prescription without current full criteria, measured geometry/substrate, service schedule, system instructions, calculations as applicable, and competent approval.
+
+### KR-27 — Sound absorption and airborne sound insulation are different evidence objects
+
+- **Sources:** [ISO 354:2003 sound-absorption measurement](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/03/45/34545.html?browse=tc), [ISO 717-1:2020 airborne sound-insulation rating](https://www.iso.org/standard/77435.html?browse=ics).
+- **Grade:** B — official standards abstracts; full current methods, test reports, project criteria, and acoustic design govern.
+- **Purpose:** Ground absorption/NRC-type claims, reverberation, airborne isolation, plenum/flanking paths, room use, laboratory versus field performance, and commissioning.
+- **Summary:** ISO 354 measures absorption in a reverberation room, while ISO 717-1 rates airborne sound insulation from specified measurements; neither value alone predicts the other or the final occupied room.
+- **Grounded facts:** An absorption coefficient, insulation rating, perforated appearance, mineral infill, or acoustic product label does not prove reverberation, speech/privacy, sound isolation, flanking, background noise, or installed performance.
+- **Incorporation:** Use in PLF-02–PLF-05, PLF-07–PLF-08, PLF-10–PLF-12.
+- **Limits/recheck:** Match intended acoustic outcome, tested specimen/assembly and mounting, area, plenum and penetrations, adjacent constructions, field conditions, uncertainty, commissioning method, and acoustician review.
+
+### KR-28 — Ceiling fire claims belong to the tested construction and exposure
+
+- **Sources:** [ISO 834-1:2025 general fire-resistance testing](https://www.iso.org/standard/83943.html), [ISO 834-9:2003 non-loadbearing ceiling elements](https://www.iso.org/standard/30326.html), [ISO/TR 12470-1:2017 application of test results](https://www.iso.org/standard/65497.html).
+- **Grade:** B — official standards records; Indonesian fire/building rules, complete test evidence, field of application, and fire authority govern.
+- **Purpose:** Ground fire-resistance versus reaction-to-fire boundaries, independent ceiling membranes, protected elements, supports, penetrations/services, joints/perimeters, access panels, changes, and maintenance.
+- **Summary:** ISO 834 distinguishes general fire-resistance testing and ceiling-specific configurations; applicability depends on the representative assembly, exposure, supporting construction, details, and permitted application of results.
+- **Grounded facts:** A fire-resistant board, thickness, certificate image, isolated test, or component classification does not prove the complete ceiling, protected structure, penetrations, service changes, or installed compartment/fire strategy.
+- **Incorporation:** Use in PLF-02–PLF-04, PLF-06, PLF-08–PLF-12.
+- **Limits/recheck:** Verify intended fire function, current Indonesian criteria, exact tested/assessed system and field of application, all supports/joints/penetrations/access, installation/inspection, changes, and competent fire review.
+
+### KR-29 — Persistent moisture must be prevented and its source corrected
+
+- **Sources:** [WHO indoor-air guidelines on dampness and mould](https://www.who.int/publications/i/item/9789289041683), [ISO 16813:2024 indoor-environment design](https://www.iso.org/standard/83780.html).
+- **Grade:** B/C — official international health and design guidance; project diagnosis and Indonesian requirements govern.
+- **Purpose:** Ground humidity, leaks, condensation, wet services, roof/façade interfaces, ventilation, mould, staining, material compatibility, occupied-space response, and repair.
+- **Summary:** WHO identifies persistent dampness and microbial growth as indoor-health concerns; ceiling symptoms require source-led building investigation rather than cosmetic concealment.
+- **Grounded facts:** A stain, odor, sag, soft board, condensation, or visible mould does not by itself identify roof/plumbing/HVAC/envelope source, hidden extent, material safety, structural condition, or suitable cleaning/repair.
+- **Incorporation:** Use in PLF-02–PLF-03, PLF-06, PLF-08–PLF-10, PLF-12.
+- **Limits/recheck:** Do not remotely diagnose or prescribe hazardous cleaning. Verify source, duration/extent, materials/contaminants, occupied vulnerability, safe access/isolation, qualified remediation, drying, replacement, and post-work checks.
+
+### KR-30 — Above-ceiling services must be independently supported and jointly coordinated
+
+- **Sources:** [PP 16/2021 building implementation](https://peraturan.bpk.go.id/Details/161846/pp-no-16), [ISO 16813:2024 indoor-environment design](https://www.iso.org/standard/83780.html).
+- **Grade:** A/B — official Indonesian building regulation and international coordination principles; each service's current rules and design remain separate.
+- **Purpose:** Ground lights, diffusers, sprinklers/detectors, speakers, access panels, cable trays, partitions, insulation, maintenance zones, penetrations, independent supports, shutdowns, testing, and handover.
+- **Summary:** Ceiling coordination is an iterative multi-discipline process: service location/support/access and ceiling module/fire/acoustic/air/barrier functions must be reconciled before closing concealed work.
+- **Grounded facts:** A reflected-ceiling plan, clash-free model, cut-out, or visual walk-through does not prove service capacity/support, fire/alarm/sprinkler coverage, airflow, access, electrical safety, acoustic continuity, or commissioning.
+- **Incorporation:** Use in PLF-01–PLF-02, PLF-04, PLF-06–PLF-10, PLF-12.
+- **Limits/recheck:** Do not relocate or support services from the ceiling system without discipline design and approval. Require coordinated drawings, service support details, access/clearance, hold points, tests, labels, and as-builts.
+
+### KR-31 — Ceiling quality needs traceable samples, hold points, and completed-system checks
+
+- **Sources:** [ISO 9001:2015 quality-management requirements](https://www.iso.org/standard/62085.html), [PP 16/2021 building implementation](https://peraturan.bpk.go.id/Details/161846/pp-no-16).
+- **Grade:** A/B — official Indonesian and international sources; certification is not product/system acceptance.
+- **Purpose:** Ground requirements review, submittals, samples/mock-ups, identity/traceability, storage, setting-out, concealed supports/services, joints/finish, inspection/testing, defects, changes, release, and handover.
+- **Summary:** Quality management connects specified requirements to controlled inputs/processes, inspections, nonconformity and records; ceiling acceptance needs both concealed and visible evidence.
+- **Grounded facts:** A supplier certificate, approved sample, straight sightline, completed paint, or final punch list does not prove concealed supports, wet storage history, product identity, service/fire/acoustic continuity, unauthorized changes, or closure of root causes.
+- **Incorporation:** Use in PLF-02–PLF-04 and PLF-07–PLF-12.
+- **Limits/recheck:** Define actual specification and acceptance, responsible approvals, sample boundary, storage/conditioning, hold points, inspection/test records, deviations/NCR/corrective action, cleanability/access, as-builts, warranties, and maintenance.
+
+### KR-32 — Ceiling environmental claims require declared scope and substantiation
+
+- **Sources:** [ISO 14021:2026 self-declared environmental claims](https://www.iso.org/standard/14021).
+- **Grade:** B — official current international standard record; Indonesian law, actual product declarations, transport, installation, use, reuse, and waste systems govern.
+- **Purpose:** Ground recycled/recyclable/reusable/low-waste/low-impact/local and comparative claims across products, supports, finishes, packaging, installation waste, maintenance, and end of life.
+- **Summary:** ISO 14021:2026 requires principles, qualifications, documentation, and assessment for self-declared environmental statements; one material attribute is not a whole-system lifecycle conclusion.
+- **Grounded facts:** A recycled-content statement, recyclable symbol, demountable tile, lightweight system, local supplier, or waste-reduction estimate does not prove a broader environmental benefit or an available end-of-life route.
+- **Incorporation:** Use in PLF-02–PLF-03, PLF-06, PLF-09–PLF-12.
+- **Limits/recheck:** State exact claim/product/system/boundary and date; retain method and substantiation; verify installation loss, durability/care, reuse condition, local collection/recycling/disposal, and avoid vague or absolute claims.
+
 ## Topic-family coverage matrix
 
 | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting |
 | --- | --- | --- | --- |
-| `PLF-01` | KR-01, KR-21, KR-16, KR-02, KR-03 | Ceiling terminology and system anatomy; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-02` | KR-01, KR-21, KR-12, KR-08, KR-22 | Requirements and system selection; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-03` | KR-01, KR-02, KR-03, KR-04, KR-06 | Materials and product families; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-04` | KR-01, KR-07, KR-10, KR-02, KR-03 | Support, suspension, structure, and anchors; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-05` | KR-01, KR-24, KR-12, KR-19, KR-02 | Acoustic performance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-06` | KR-01, KR-05, KR-13, KR-17, KR-12 | Fire, moisture, hygiene, and exposure; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-07` | KR-01, KR-02, KR-03, KR-04, KR-06 | Geometry, appearance, and lighting; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-05, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-08` | KR-01, KR-07, KR-09, KR-16, KR-14 | MEP, access, and above-ceiling coordination; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-09` | KR-01, KR-07, KR-16, KR-21, KR-11 | Installation, QA, and handover; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-10` | KR-01, KR-12, KR-20, KR-21, KR-17 | Inspection, failure, repair, and maintenance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-11` | KR-01, KR-07, KR-16, KR-21, KR-14 | Procurement, cost, and lifecycle; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
-| `PLF-12` | KR-01, KR-02, KR-05, KR-16, KR-12 | Safety, standards, claims, and sustainability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | EG-01, EG-02, EG-03, EG-04, EG-05, EG-06, EG-07, EG-08, EG-09, EG-10, EG-11, EG-12; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. |
+| `PLF-01` | KR-01, KR-16, KR-21, KR-25, KR-30 | Complete ceiling assembly and boundaries among visible products, grid/furring/hangers/perimeter, supporting building, plenum, services, finishes, access, and operation. | EG-01, EG-02, EG-03, EG-09. |
+| `PLF-02` | KR-16, KR-21, KR-24, KR-25, KR-26, KR-27, KR-28, KR-29, KR-30 | Use/occupancy and environment brief, existing conditions, architecture/structure/services, access, acoustic/fire/hygiene/appearance goals, evidence, responsibilities, and acceptance. | EG-01, EG-02, EG-07, EG-09, EG-10. |
+| `PLF-03` | KR-13, KR-17, KR-21, KR-24, KR-25, KR-26, KR-29, KR-31, KR-32 | Exact product/system identity, composition and format, supports/finishes, exposure and compatibility, emissions/health, evidence/test scope, samples, installation, care, and end of life. | EG-01, EG-02, EG-08, EG-09. |
+| `PLF-04` | KR-09, KR-10, KR-14, KR-16, KR-19, KR-21, KR-26, KR-30, KR-31 | Configured load schedule and path through panels/grid/furring/hangers/perimeter/anchors to verified substrate, movement/exposure/restraint, services, installation, inspection, and change. | EG-01, EG-02, EG-03, EG-05, EG-09. |
+| `PLF-05` | KR-21, KR-24, KR-25, KR-27, KR-30, KR-31 | User-defined acoustic outcome, absorption versus isolation, tested assembly/mounting, room/plenum/flanking/services, model or field verification, uncertainty, and commissioning. | EG-01, EG-02, EG-09. |
+| `PLF-06` | KR-12, KR-13, KR-17, KR-21, KR-25, KR-28, KR-29, KR-30, KR-32 | Fire-function/test scope, humidity/leaks/condensation/mould, cleaning/hygiene, corrosion/exterior exposure, emissions, service penetrations, current claims, and responsible review. | EG-01, EG-02, EG-07, EG-08, EG-09. |
+| `PLF-07` | KR-14, KR-16, KR-21, KR-25, KR-26, KR-30, KR-31 | Geometry/module/joints/perimeters/curves/translucency and lighting intent translated through tolerances, supports, services/access, mock-up, coordinated drawings, and installed visual/function checks. | EG-01, EG-02, EG-03, EG-09. |
+| `PLF-08` | KR-07, KR-11, KR-12, KR-16, KR-18, KR-25, KR-27, KR-28, KR-30, KR-31 | Independent service supports and discipline criteria, locations/clearances/access, penetrations and ceiling functions, shutdown/permit, concealed-work coordination, tests, labels, and as-builts. | EG-01, EG-02, EG-03, EG-05, EG-07, EG-09. |
+| `PLF-09` | KR-05, KR-07, KR-09, KR-13, KR-16, KR-19, KR-20, KR-26, KR-28, KR-29, KR-30, KR-31 | Storage/conditioning, safe access, setting-out and sequence, supports/services hold points, product identity, joints/finish, inspections/tests/NCR, cleaning, demonstration, and handover. | EG-01, EG-02, EG-03, EG-05, EG-07, EG-09. |
+| `PLF-10` | KR-05, KR-06, KR-09, KR-13, KR-17, KR-20, KR-23, KR-26, KR-28, KR-29, KR-30, KR-31 | Safe inspection and records, symptom/cause uncertainty across support/moisture/services/fire/acoustic/product interfaces, isolation/escalation, cause-led repair, verification, and lifecycle updates. | EG-01, EG-02, EG-03, EG-07, EG-08, EG-09. |
+| `PLF-11` | KR-20, KR-21, KR-23, KR-24, KR-25, KR-26, KR-27, KR-28, KR-31, KR-32 | Comparable complete-system scope, quantities/interfaces/services, product and performance evidence, samples/mock-ups, responsibilities, programme/access, QA/tests, substitutions, spares/warranty, changes, waste, and total ownership. | EG-01, EG-02, EG-09, EG-10, EG-11, EG-12. |
+| `PLF-12` | KR-02, KR-05, KR-08, KR-09, KR-11, KR-12, KR-13, KR-16, KR-17, KR-19, KR-23, KR-24, KR-25, KR-28, KR-32 | Current Indonesian building/K3 duties, task controls and competence, material/dust/electrical/fire/access risks, exact standards and product/system claims, privacy/provenance, environmental substantiation, and escalation. | EG-01, EG-02, EG-03, EG-05, EG-07, EG-08, EG-09, EG-10. |
 
 Coverage result: **12/12 topic families mapped; 0 families without a starting evidence set.**
-
 ## Cross-catalog fact bank
 
 1. A management system, legal duty, risk assessment, engineered control, permit, competence record, inspection, and audit prove different things.
